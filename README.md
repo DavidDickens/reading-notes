@@ -1,7 +1,11 @@
 # <ins>Reading-Notes</ins>
 My Reading Journal for Code Fellows
 
-intro name etc
+### Intro
+
+Im David Dickens, an Army Vet who loves to learn and find the next challenge. Some hobbies/interest include 📚 🏍️ ♟️ 
+
+
 
 [Link to github portfolio](https://daviddickens.github.io/reading-notes/)
 
@@ -9,7 +13,7 @@ intro name etc
 
 # <ins>Growth Mindset</ins>
 
-> No pain, no gain
+> "No pain, no gain"
 
 
 # <ins>Keeping mself in the Growth Minset</ins>
