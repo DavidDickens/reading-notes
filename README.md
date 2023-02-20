@@ -8,7 +8,7 @@ Im David Dickens, an Army Vet who loves to learn and find the next challenge. As
 
 
 
-[Link to github portfolio](https://github.com/DavidDickens/reading-notes)
+[Link to github portfolio](https://github.com/DavidDickens)
 
 
 
