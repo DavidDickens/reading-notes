@@ -17,6 +17,6 @@ intro name etc
 
 # <ins>Keeping mself in the Growth Minset</ins>
  
- 1.
- 2.
- 3.
+ 1. dfgdfg
+ 2. dfgdf
+ 3. dfgdf
