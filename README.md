@@ -8,11 +8,14 @@ intro name etc
 
 
 # <ins>Growth Mindset</ins>
-insert GM in my own words, bullets maybe
+> insert GM in my own words, bullets maybe
 
 1. first point
 2. second point
 3. third point
 
 # <ins>Keeping mself in the Growth Minset</ins>
- maybe bullet points
+ 
+ 1.
+ 2.
+ 3.
