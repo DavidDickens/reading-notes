@@ -3,7 +3,7 @@ My Reading Journal for Code Fellows
 
 intro name etc
 
-link to gethub portfolio: https://daviddickens.github.io/reading-notes/
+[Link to github portfolio]: (https://daviddickens.github.io/reading-notes/)
 
 
 
