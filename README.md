@@ -8,7 +8,8 @@ intro name etc
 
 
 # <ins>Growth Mindset</ins>
-> insert GM in my own words, bullets maybe
+
+> Conquering your inner Wimp
 
 1. first point
 2. second point
