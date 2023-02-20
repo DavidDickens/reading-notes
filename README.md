@@ -3,7 +3,7 @@ My Reading Journal for Code Fellows
 
 ### Intro
 
-Im David Dickens, an Army Vet who loves to learn and find the next challenge. Some hobbies/interest include 📚 🏍️ ♟️ 
+Im David Dickens, an Army Vet who loves to learn and find the next challenge.Aspiring Full Stack Developer. Some hobbies/interest include 📚 🏍️ ♟️ 
 
 
 
