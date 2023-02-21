@@ -15,13 +15,24 @@
 3. It supports a variety of formatting options, including headers, bold and italic text, links, images, lists, code blocks, and more.
 
 
-###What symbol will create a hading in Markdown?
+### What symbol will create a hading in Markdown?
 The # sign
 
 ##### How many do you ned to create the largest Heading?
 Only one #
 
 ##### How many do you need to create the smallest heading?
+
+You need 6 #'s
+
+### When making text bold or italicized for emphasis, it is best practice to use which symbol?
+
+Bold: ** ** or __ __
+italicized: * * or _ _
+
+### How do you create a link with Markdown?
+
+You can create an inline link by wrapping link text in brackets [ }, and then wrapping the URL in parentheses ( ).
 
 
 
