@@ -35,4 +35,8 @@ italicized: * * or _ _
 You can create an inline link by wrapping link text in brackets [ }, and then wrapping the URL in parentheses ( ).
 
 
+### What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
+
+You can make an unordered list by preceding one or more lines of text with -, *, or +.
+
 
