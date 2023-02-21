@@ -15,7 +15,7 @@
 3. It supports a variety of formatting options, including headers, bold and italic text, links, images, lists, code blocks, and more.
 
 
-### What symbol will create a hading in Markdown?
+### What symbol will create a heading in Markdown?
 The # sign
 
 ##### How many do you ned to create the largest Heading?
