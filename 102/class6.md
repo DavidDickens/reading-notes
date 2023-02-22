@@ -4,7 +4,7 @@
 
 - Variables are containers for storing data (storing data values).
 
-    **When to Use JavaScript var? **
+    **When to Use JavaScript var?**
 
 - Always declare JavaScript variables with var,let, orconst.
 
