@@ -17,3 +17,5 @@ Im David Dickens, an Army Vet who loves to learn and find the next challenge. As
  1. Staying focused
  2. Never giving up and taking the easy road
  3. Self reflection
+
+
