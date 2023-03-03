@@ -8,7 +8,7 @@ Im David Dickens, an Army Vet who loves to learn and find the next challenge. As
 
 [Link to github portfolio](https://github.com/DavidDickens)
 
-# <ins> Code 102 Reading Notes</ins>  
+# <ins> Code 102 - Intro to Software Development</ins>  
 
 **Table of Contents**  
 <br>
@@ -21,7 +21,7 @@ Im David Dickens, an Army Vet who loves to learn and find the next challenge. As
     [Class 7: Programming with JavaScript](102/class7.md)  
     [Class 8: Operators and Loops](102/class8.md)  
 
-# <ins> Code 201 Reading Notes</ins>
+# <ins> Code 201 - Foundations to Software Development</ins>
 
 <br>
 
@@ -40,3 +40,7 @@ Im David Dickens, an Army Vet who loves to learn and find the next challenge. As
    [Class 13: Introduction to Persistence with Local Storage](201/class13.md)  
    [Class 14: Documentation, Project Selection, & Team Workflow](201/class14.md)  
    [Class 15: Course Recap & 301 Preview](201/class15.md)  
+
+   # <ins> Code 301 - Intermediate Software Development</ins>
+
+   # <ins> Code 401 - Advanced Software Development</ins>
