@@ -50,3 +50,5 @@ In other words: The HTML DOM is a standard for how to get, change, add, or delet
 ## Briefly describe the relationship between the DOM and JavaScript.
 
 - Document Object Model or DOM is an interface that defines how the browser reads your XML or HTML document. JavaScript is allowed to manipulate structure & style your webpage. Once the browser reads the HTML document, it creates a representational tree known as the Document Object Model.
+
+https://canvas.instructure.com/courses/6214666/discussion_topics/17290588  
