@@ -22,13 +22,13 @@
 
 ## List 5 form elements and explain their importance.
 
-- The <label> element defines a label for several form elements.
-The <label> element is useful for screen-reader users, because the screen-reader will read out loud the label when the user focus on the input element.
-The <label> element also help users who have difficulty clicking on very small regions (such as radio buttons or checkboxes) - because when the user clicks the text within the <label> element, it toggles the radio button/checkbox.
+- The label element defines a label for several form elements.
+The label element is useful for screen-reader users, because the screen-reader will read out loud the label when the user focus on the input element.
+The label element also help users who have difficulty clicking on very small regions (such as radio buttons or checkboxes) - because when the user clicks the text within the label element, it toggles the radio button/checkbox.
 
-- The <select> element defines a drop-down list
+- The select element defines a drop-down list
 
-- The <option> elements defines an option that can be selected.
+- The option elements defines an option that can be selected.
 By default, the first item in the drop-down list is selected.
 
 - Use the size attribute to specify the number of visible values
