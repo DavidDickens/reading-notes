@@ -10,12 +10,12 @@
 
 - Early 2010s: WebRTC. WebRTC is a technology that allows web browsers to communicate with each other directly, without the need for plugins or additional software. This made it possible to create real-time audio and video communication applications directly in the browser, such as video conferencing and live streaming.  
 
-## Describe the use of the src and controls attributes in the <video> element.
+## Describe the use of the src and controls attributes in the 'video' element.
 
 - Users must be able to control video and audio playback. You must either use the controls attribute to include the browser's own control interface, or build your interface using the appropriate JavaScript API. At a minimum, the interface must include a way to start and stop the media, and to adjust the volume.
 
 
-## Why is it important to have fallback content inside the <video> element?
+## Why is it important to have fallback content inside the 'video' element?
 
 - This will be displayed if the browser accessing the page doesn't support the 'video' element, allowing us to provide a fallback for older browsers. This can be anything you like; in this case, we've provided a direct link to the video file, so the user can at least access it some way regardless of what browser they are using.
 
@@ -45,4 +45,4 @@
 
 ## How is srcset more helpful for responsive images than CSS or JavaScript?
 
-- srcset allows you to define a list of different image resources along with size information so that browser can pick the most appropriate image based on the actual device's resolution. The actual width of the image or display density
+- srcset allows you to define a list of different image resources along with size information so that browser can pick the most appropriate image based on the actual device's resolution. The actual width of the image or display density.
